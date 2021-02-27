@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <img width="33%" height="50%" src="LNB.png"> 
+</p>
+
 # Learn And Build
 [![Twitter Badge](https://img.shields.io/badge/-@LearnNBuild-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lnbcore)](https://twitter.com/lnbcore)&emsp;&emsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LearnAndBuild-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/learn-and-build/)](https://www.linkedin.com/company/learn-and-build/)&emsp;&emsp;
@@ -21,7 +25,7 @@ We are India’s leading online technical education provider dedicated to core l
 ## Wonder vision of LnB:
 - Fueling each tech mind driving them to become technocrats.
 - Connecting each specialized wannabe to become tech specialists.
-- Arriving worldwide to spread the advancement about the advances making every tech cerebrum our long-lasting accomplices.
+- Arriving worldwide to spread the advancement about the advances making every tech cerebrum our long-lasting partners.
 
 ### We follow the theory of “3Ls”:
 
