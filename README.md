@@ -3,7 +3,7 @@
 </p>
 
 # Learn And Build
-[![Twitter Badge](https://img.shields.io/badge/-@LearnNBuild-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lnbcore)](https://twitter.com/lnbcore)&emsp;&emsp;
+[![Twitter Badge](https://img.shields.io/badge/-@LearnNBuild-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lnbcore)](https://twitter.com/lnbcore)&emsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LearnAndBuild-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/learn-and-build/)](https://www.linkedin.com/company/learn-and-build/)&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/-contact@lnbcore.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@lnbcore.com)](mailto:contact@lnbcore.com)&emsp;&emsp;
 [![Facebook Badge](https://img.shields.io/badge/LearnAndBuild-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/lnbuildcore)](https://www.facebook.com/lnbuildcore)&emsp;
