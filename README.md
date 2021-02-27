@@ -16,7 +16,7 @@ We are India’s leading online technical education provider dedicated to core l
 ## <a href="https://lnbcore.com/about-us/">ABOUT</a>:
 😄 LnB is an initiative by TechieNest Pvt. Limited who has trained more than 64500 candidates across the country. We are equipped with a complete core-learning eco-system developed by our extensively experienced team of technocrats.
 
-🔥 At LnB, we are providing courses in various demanding technologies including Big Data, DevOps, Cybersecurity, Cloud Computing, IoT, Artificial Intelligence, & many more. The courses are designed effectively to facilitate theoretical as well as practical underpinnings.
+🔥 At LnB, we are providing courses in various demanding technologies including Big Data, <a href="https://lnbcore.com/">DevOps Training</a>, Cybersecurity, Cloud Computing, IoT, Artificial Intelligence, & many more. The courses are designed effectively to facilitate theoretical as well as practical underpinnings.
 
 😎 LnB works as a cornerstone for budding technocrats and a stepping stone for the working professionals. Our innovative blended platform integrates the flexibility of recorded lectures and interactivity in LIVE classrooms, providing the learner a package of resources to have proficiency in the technology.
 
@@ -37,3 +37,6 @@ We are India’s leading online technical education provider dedicated to core l
 
 <b><u>Learn with specialists:</u></b><br>
 <i>Meet instructors from top colleges and social foundations, who’ll share their experience through recordings, articles, tests, and conversations</i>
+
+---
+![LnB's github stats](https://github-readme-stats.vercel.app/api?username=lnbspace&show_icons=true)
